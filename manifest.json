@@ -1,6 +1,6 @@
 {
   "name": "Variables to CSS Exporter",
-  "id": "variables-to-css-exporter",
+  "id": "1614892007938804125",
   "api": "1.0.0",
   "main": "code.js",
   "ui": "ui.html",
@@ -9,5 +9,6 @@
     "allowedDomains": ["none"],
     "reasoning": "This plugin only reads local variables and exports them locally."
   },
-  "capabilities": ["inspect"]
+  "capabilities": ["inspect"],
+  "documentAccess": "dynamic-page"
 }
